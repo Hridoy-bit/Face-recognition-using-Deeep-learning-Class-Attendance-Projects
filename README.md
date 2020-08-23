@@ -8,4 +8,5 @@ Firstly, you need to download the visual studio and install it with the option c
 * --numpy
 * You need to make a folder with the images that you want to perform your attendance.You also need to open a csv file where your name and date will be saved.You can use the csv file of mine.
 # Output Image
-<img src="ouput.png" >
+![2](https://user-images.githubusercontent.com/60895200/90990791-d8cf1c00-e569-11ea-98cf-64bbe37bd196.png)
+
